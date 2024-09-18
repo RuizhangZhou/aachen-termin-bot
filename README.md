@@ -7,7 +7,7 @@ Smooth out your appointment scheduling experience in Aachen with the help of not
 ## Arkaden Termin
 [https://t.me/ArkadenTermin](https://t.me/ArkadenTermin)
 
-This channel is exclusively for Arkaden Termin. Instant notifications will be sent to the channel once appointment slots become available.
+This channel is exclusively for Arkaden Termin. Instant notifications will be sent to the channel once appointment slots become available.(I'm running on my machine locally, I will close the machine after I get a termin(09.2024))
 
 
 ## SuperC Termin
