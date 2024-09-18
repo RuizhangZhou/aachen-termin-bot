@@ -5,7 +5,7 @@ Official site: https://noworneverev.github.io/aachen-termin-bot/
 Smooth out your appointment scheduling experience in Aachen with the help of notifications from respective Telegram Channels.
 
 ## Arkaden Termin
-[https://t.me/aachen_termin](https://t.me/ArkadenTermin)
+[https://t.me/ArkadenTermin](https://t.me/ArkadenTermin)
 
 This channel is exclusively for Arkaden Termin. Instant notifications will be sent to the channel once appointment slots become available.
 
